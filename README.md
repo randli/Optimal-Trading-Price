@@ -1,6 +1,6 @@
 Optimal Trading Price
 ===
-> CMPS 140 Winter 2019 Project (Artificial Intelligence)
+> UCSC CMPS 140 Winter 2019 Project (Artificial Intelligence)
 ## Overview
 > A reinforcement learning model that finds the optimal Trading Price for SPY stock options using Q-learning.
 
